@@ -10,7 +10,7 @@ describe("Condicionales en JavaScript", () => {
         }
 
         // Edita el .toEqual() (los "???") para que pase el test
-        expect(result).toEqual(???);
+        expect(result).toEqual("");
     })
 
 
