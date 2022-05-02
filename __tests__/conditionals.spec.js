@@ -26,7 +26,7 @@ describe("Condicionales en JavaScript", () => {
         }
 
         // Edita el .toEqual() para que pase el test
-        expect(result).toEqual("Olga es mayor de edad");
+        expect(result).toEqual("Olga es mayor de edad.");
     })
 
 
